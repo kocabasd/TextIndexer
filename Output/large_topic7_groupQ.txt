@@ -1,0 +1,10 @@
+topic7 Q0 talk.politics.mideast/76421 1 10.71 groupQ_large
+topic7 Q0 talk.politics.mideast/76175 2 2.436 groupQ_large
+topic7 Q0 talk.politics.mideast/76227 3 1.827 groupQ_large
+topic7 Q0 talk.politics.mideast/76114 4 1.683 groupQ_large
+topic7 Q0 talk.politics.mideast/76559 5 1.613 groupQ_large
+topic7 Q0 talk.politics.mideast/77253 6 1.610 groupQ_large
+topic7 Q0 talk.politics.mideast/76331 7 1.610 groupQ_large
+topic7 Q0 talk.politics.mideast/76506 8 1.584 groupQ_large
+topic7 Q0 talk.politics.mideast/76223 9 1.535 groupQ_large
+topic7 Q0 talk.politics.mideast/75412 10 1.485 groupQ_large

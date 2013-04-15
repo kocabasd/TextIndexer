@@ -1,0 +1,10 @@
+topic9 Q0 sci.electronics/53855 1 4.318 groupQ_small
+topic9 Q0 sci.electronics/53522 2 3.557 groupQ_small
+topic9 Q0 sci.electronics/52750 3 2.517 groupQ_small
+topic9 Q0 sci.electronics/53545 4 2.462 groupQ_small
+topic9 Q0 sci.electronics/54346 5 1.972 groupQ_small
+topic9 Q0 sci.electronics/53807 6 1.912 groupQ_small
+topic9 Q0 sci.electronics/52804 7 1.726 groupQ_small
+topic9 Q0 sci.electronics/53884 8 1.530 groupQ_small
+topic9 Q0 sci.electronics/53984 9 1.518 groupQ_small
+topic9 Q0 sci.electronics/53698 10 1.436 groupQ_small

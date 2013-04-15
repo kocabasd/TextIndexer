@@ -1,0 +1,10 @@
+topic4 Q0 sci.electronics/53719 1 2.747 groupQ_medium
+topic4 Q0 sci.electronics/52767 2 2.644 groupQ_medium
+topic4 Q0 sci.electronics/53733 3 1.955 groupQ_medium
+topic4 Q0 sci.electronics/53987 4 1.625 groupQ_medium
+topic4 Q0 sci.electronics/54140 5 1.619 groupQ_medium
+topic4 Q0 sci.electronics/53644 6 1.590 groupQ_medium
+topic4 Q0 sci.electronics/53643 7 1.523 groupQ_medium
+topic4 Q0 sci.electronics/54278 8 1.399 groupQ_medium
+topic4 Q0 sci.electronics/52818 9 1.351 groupQ_medium
+topic4 Q0 sci.electronics/52804 10 1.342 groupQ_medium
