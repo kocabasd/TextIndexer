@@ -11,9 +11,9 @@ import org.apache.lucene.util.Version;
 
 
 public class ReadWriteData {
-	final static String TOPIC = "topic2";	
-	final static String CLASS = "talk.religion.misc";
-	final static String DOCUMENT_ID = "83561";
+	final static String TOPIC = "topic20";	
+	final static String CLASS = "sci.med";
+	final static String DOCUMENT_ID = "59456";
 	final static String SIZE = "bm25";
     // if the constraints FrequencyUpperThreshold, FrequencyLowerThreshold are 0, 
     // the program will not use the FrequencyThreshold

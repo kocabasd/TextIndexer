@@ -1,0 +1,10 @@
+topic20 Q0 sci.med/59021 1 535.5 groupQ_bm25
+topic20 Q0 sci.med/59126 2 366.7 groupQ_bm25
+topic20 Q0 sci.med/59478 3 361.2 groupQ_bm25
+topic20 Q0 sci.med/59125 4 359.5 groupQ_bm25
+topic20 Q0 sci.med/58044 5 359.3 groupQ_bm25
+topic20 Q0 sci.med/58905 6 304.6 groupQ_bm25
+topic20 Q0 sci.med/58152 7 295.5 groupQ_bm25
+topic20 Q0 sci.med/59323 8 293.8 groupQ_bm25
+topic20 Q0 sci.med/59261 9 261.9 groupQ_bm25
+topic20 Q0 sci.med/59435 10 257.6 groupQ_bm25

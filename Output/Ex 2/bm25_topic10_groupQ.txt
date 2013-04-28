@@ -1,0 +1,10 @@
+topic10 Q0 rec.motorcycles\/04312 1 296.8 groupQ_bm25
+topic10 Q0 rec.motorcycles\/05116 2 212.6 groupQ_bm25
+topic10 Q0 rec.motorcycles\/04592 3 190.4 groupQ_bm25
+topic10 Q0 rec.motorcycles\/04785 4 181.9 groupQ_bm25
+topic10 Q0 rec.motorcycles\/05239 5 181.4 groupQ_bm25
+topic10 Q0 rec.motorcycles\/04664 6 180.4 groupQ_bm25
+topic10 Q0 rec.motorcycles\/04746 7 178.8 groupQ_bm25
+topic10 Q0 rec.motorcycles\/04362 8 178.1 groupQ_bm25
+topic10 Q0 rec.motorcycles\/04847 9 176.4 groupQ_bm25
+topic10 Q0 rec.motorcycles\/04947 10 176.3 groupQ_bm25

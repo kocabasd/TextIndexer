@@ -1,0 +1,10 @@
+topic13 Q0 sci.crypt/15782 1 5.138 groupQ_medium
+topic13 Q0 sci.crypt/15560 2 4.833 groupQ_medium
+topic13 Q0 sci.crypt/15949 3 4.720 groupQ_medium
+topic13 Q0 sci.crypt/15461 4 4.418 groupQ_medium
+topic13 Q0 sci.crypt/15339 5 3.894 groupQ_medium
+topic13 Q0 sci.crypt/16079 6 3.661 groupQ_medium
+topic13 Q0 sci.crypt/15880 7 3.074 groupQ_medium
+topic13 Q0 sci.crypt/15585 8 2.991 groupQ_medium
+topic13 Q0 sci.crypt/15789 9 2.911 groupQ_medium
+topic13 Q0 sci.crypt/15881 10 2.804 groupQ_medium

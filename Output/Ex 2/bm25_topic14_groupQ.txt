@@ -1,0 +1,10 @@
+topic14 Q0 rec.sport.hockey/52630 1 492.6 groupQ_bm25
+topic14 Q0 rec.sport.hockey/52631 2 399.3 groupQ_bm25
+topic14 Q0 rec.sport.hockey/53942 3 366.1 groupQ_bm25
+topic14 Q0 rec.sport.hockey/53909 4 320.9 groupQ_bm25
+topic14 Q0 rec.sport.hockey/54750 5 305.6 groupQ_bm25
+topic14 Q0 rec.sport.hockey/53914 6 238.8 groupQ_bm25
+topic14 Q0 rec.sport.hockey/53583 7 226.8 groupQ_bm25
+topic14 Q0 rec.sport.hockey/53875 8 224.6 groupQ_bm25
+topic14 Q0 rec.sport.hockey/53702 9 224.3 groupQ_bm25
+topic14 Q0 rec.sport.hockey/53854 10 220.1 groupQ_bm25

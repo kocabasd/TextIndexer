@@ -1,0 +1,10 @@
+topic20 Q0 sci.med/59475 1 9.881 groupQ_medium
+topic20 Q0 sci.med/59224 2 6.290 groupQ_medium
+topic20 Q0 sci.med/59527 3 5.585 groupQ_medium
+topic20 Q0 sci.med/59206 4 5.389 groupQ_medium
+topic20 Q0 sci.med/59035 5 5.300 groupQ_medium
+topic20 Q0 sci.med/59034 6 4.229 groupQ_medium
+topic20 Q0 sci.med/59348 7 3.795 groupQ_medium
+topic20 Q0 sci.med/59406 8 3.315 groupQ_medium
+topic20 Q0 sci.med/59057 9 2.975 groupQ_medium
+topic20 Q0 sci.med/59473 10 2.834 groupQ_medium

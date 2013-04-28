@@ -1,0 +1,10 @@
+topic19 Q0 sci.space/60875 1 9.325 groupQ_medium
+topic19 Q0 sci.space/60994 2 4.294 groupQ_medium
+topic19 Q0 sci.space/60236 3 3.562 groupQ_medium
+topic19 Q0 sci.space/60995 4 2.266 groupQ_medium
+topic19 Q0 sci.space/61245 5 2.084 groupQ_medium
+topic19 Q0 sci.space/61523 6 2.014 groupQ_medium
+topic19 Q0 sci.space/60945 7 1.487 groupQ_medium
+topic19 Q0 sci.space/60919 8 1.441 groupQ_medium
+topic19 Q0 sci.space/61506 9 1.283 groupQ_medium
+topic19 Q0 sci.space/61180 10 1.167 groupQ_medium

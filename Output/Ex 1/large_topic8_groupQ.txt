@@ -1,0 +1,10 @@
+topic8 Q0 alt.atheism/53356 1 5.693 groupQ_large
+topic8 Q0 alt.atheism/53675 2 2.674 groupQ_large
+topic8 Q0 alt.atheism/53478 3 2.341 groupQ_large
+topic8 Q0 alt.atheism/51231 4 2.237 groupQ_large
+topic8 Q0 alt.atheism/51272 5 2.107 groupQ_large
+topic8 Q0 alt.atheism/53382 6 1.940 groupQ_large
+topic8 Q0 alt.atheism/53320 7 1.937 groupQ_large
+topic8 Q0 alt.atheism/53363 8 1.817 groupQ_large
+topic8 Q0 alt.atheism/53398 9 1.657 groupQ_large
+topic8 Q0 alt.atheism/53281 10 1.616 groupQ_large

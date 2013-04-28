@@ -1,0 +1,10 @@
+topic17 Q0 comp.sys.mac.hardware/51591 1 11.01 groupQ_medium
+topic17 Q0 comp.sys.mac.hardware/51592 2 6.427 groupQ_medium
+topic17 Q0 comp.sys.mac.hardware/52079 3 3.575 groupQ_medium
+topic17 Q0 comp.sys.mac.hardware/52166 4 3.322 groupQ_medium
+topic17 Q0 comp.sys.mac.hardware/51611 5 2.778 groupQ_medium
+topic17 Q0 comp.sys.mac.hardware/51873 6 2.608 groupQ_medium
+topic17 Q0 comp.sys.mac.hardware/52230 7 2.491 groupQ_medium
+topic17 Q0 comp.sys.mac.hardware/50460 8 2.383 groupQ_medium
+topic17 Q0 comp.sys.mac.hardware/51608 9 2.185 groupQ_medium
+topic17 Q0 comp.sys.mac.hardware/51528 10 2.106 groupQ_medium

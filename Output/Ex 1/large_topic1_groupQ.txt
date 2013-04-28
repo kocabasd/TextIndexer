@@ -1,0 +1,10 @@
+topic1 Q0 misc.forsale/76442 1 13.75 groupQ_large
+topic1 Q0 misc.forsale/76056 2 8.137 groupQ_large
+topic1 Q0 misc.forsale/76381 3 2.032 groupQ_large
+topic1 Q0 misc.forsale/75900 4 1.677 groupQ_large
+topic1 Q0 misc.forsale/76022 5 1.081 groupQ_large
+topic1 Q0 misc.forsale/76499 6 0.993 groupQ_large
+topic1 Q0 misc.forsale/76358 7 0.972 groupQ_large
+topic1 Q0 misc.forsale/76865 8 0.952 groupQ_large
+topic1 Q0 misc.forsale/76846 9 0.824 groupQ_large
+topic1 Q0 misc.forsale/74822 10 0.814 groupQ_large

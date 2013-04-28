@@ -1,0 +1,10 @@
+topic16 Q0 rec.motorcycles\/05218 1 6.715 groupQ_medium
+topic16 Q0 rec.motorcycles\/04720 2 4.672 groupQ_medium
+topic16 Q0 rec.motorcycles\/04866 3 3.738 groupQ_medium
+topic16 Q0 rec.motorcycles\/04456 4 3.269 groupQ_medium
+topic16 Q0 rec.motorcycles\/04839 5 3.023 groupQ_medium
+topic16 Q0 rec.motorcycles\/04469 6 2.864 groupQ_medium
+topic16 Q0 rec.motorcycles\/04763 7 2.680 groupQ_medium
+topic16 Q0 rec.motorcycles\/04803 8 1.947 groupQ_medium
+topic16 Q0 rec.motorcycles\/04627 9 1.387 groupQ_medium
+topic16 Q0 rec.motorcycles\/05232 10 1.375 groupQ_medium

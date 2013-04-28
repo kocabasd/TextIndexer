@@ -1,0 +1,10 @@
+topic18 Q0 sci.crypt/15240 1 2.430 groupQ_medium
+topic18 Q0 sci.crypt/15315 2 2.333 groupQ_medium
+topic18 Q0 sci.crypt/15296 3 2.205 groupQ_medium
+topic18 Q0 sci.crypt/15264 4 1.948 groupQ_medium
+topic18 Q0 sci.crypt/15221 5 1.760 groupQ_medium
+topic18 Q0 sci.crypt/15268 6 1.512 groupQ_medium
+topic18 Q0 sci.crypt/15637 7 1.454 groupQ_medium
+topic18 Q0 sci.crypt/15327 8 1.288 groupQ_medium
+topic18 Q0 sci.crypt/15681 9 1.213 groupQ_medium
+topic18 Q0 sci.crypt/16126 10 1.164 groupQ_medium

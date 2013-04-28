@@ -1,0 +1,10 @@
+topic19 Q0 sci.space/59874 1 415.8 groupQ_bm25
+topic19 Q0 sci.space/59871 2 360.1 groupQ_bm25
+topic19 Q0 sci.space/59873 3 351.3 groupQ_bm25
+topic19 Q0 sci.space/59905 4 344.0 groupQ_bm25
+topic19 Q0 sci.space/61207 5 344.0 groupQ_bm25
+topic19 Q0 sci.space/61049 6 332.2 groupQ_bm25
+topic19 Q0 sci.space/59907 7 330.9 groupQ_bm25
+topic19 Q0 sci.space/61244 8 319.6 groupQ_bm25
+topic19 Q0 sci.space/59909 9 309.6 groupQ_bm25
+topic19 Q0 sci.space/59872 10 305.4 groupQ_bm25

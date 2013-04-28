@@ -1,0 +1,10 @@
+topic12 Q0 misc.forsale/76465 1 6.275 groupQ_medium
+topic12 Q0 misc.forsale/76467 2 5.263 groupQ_medium
+topic12 Q0 misc.forsale/75900 3 3.488 groupQ_medium
+topic12 Q0 misc.forsale/76153 4 3.300 groupQ_medium
+topic12 Q0 misc.forsale/76450 5 2.829 groupQ_medium
+topic12 Q0 misc.forsale/76345 6 2.680 groupQ_medium
+topic12 Q0 misc.forsale/76832 7 2.625 groupQ_medium
+topic12 Q0 misc.forsale/76319 8 2.530 groupQ_medium
+topic12 Q0 misc.forsale/76457 9 2.120 groupQ_medium
+topic12 Q0 misc.forsale/76831 10 1.644 groupQ_medium

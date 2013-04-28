@@ -1,0 +1,10 @@
+topic12 Q0 misc.forsale/76450 1 5.756 groupQ_small
+topic12 Q0 misc.forsale/76465 2 5.394 groupQ_small
+topic12 Q0 misc.forsale/76345 3 4.691 groupQ_small
+topic12 Q0 misc.forsale/76153 4 4.324 groupQ_small
+topic12 Q0 misc.forsale/76319 5 3.162 groupQ_small
+topic12 Q0 misc.forsale/76832 6 3.156 groupQ_small
+topic12 Q0 misc.forsale/76457 7 2.878 groupQ_small
+topic12 Q0 misc.forsale/76782 8 2.771 groupQ_small
+topic12 Q0 misc.forsale/76499 9 2.736 groupQ_small
+topic12 Q0 misc.forsale/75900 10 2.718 groupQ_small

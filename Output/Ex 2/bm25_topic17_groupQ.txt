@@ -1,0 +1,10 @@
+topic17 Q0 comp.sys.mac.hardware/51946 1 282.0 groupQ_bm25
+topic17 Q0 comp.sys.mac.hardware/51892 2 257.7 groupQ_bm25
+topic17 Q0 comp.sys.mac.hardware/52240 3 254.1 groupQ_bm25
+topic17 Q0 comp.sys.mac.hardware/52004 4 246.2 groupQ_bm25
+topic17 Q0 comp.sys.mac.hardware/52002 5 195.2 groupQ_bm25
+topic17 Q0 comp.sys.mac.hardware/51563 6 192.4 groupQ_bm25
+topic17 Q0 comp.sys.mac.hardware/52298 7 181.6 groupQ_bm25
+topic17 Q0 comp.sys.mac.hardware/52175 8 172.7 groupQ_bm25
+topic17 Q0 comp.sys.mac.hardware/51846 9 166.3 groupQ_bm25
+topic17 Q0 comp.sys.mac.hardware/52193 10 164.0 groupQ_bm25

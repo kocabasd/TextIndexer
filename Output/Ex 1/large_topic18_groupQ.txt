@@ -1,0 +1,10 @@
+topic18 Q0 sci.crypt/15240 1 1.914 groupQ_large
+topic18 Q0 sci.crypt/15296 2 1.758 groupQ_large
+topic18 Q0 sci.crypt/15315 3 1.730 groupQ_large
+topic18 Q0 sci.crypt/15221 4 1.533 groupQ_large
+topic18 Q0 sci.crypt/15264 5 1.460 groupQ_large
+topic18 Q0 sci.crypt/15268 6 1.228 groupQ_large
+topic18 Q0 sci.crypt/15637 7 1.081 groupQ_large
+topic18 Q0 sci.crypt/15945 8 1.072 groupQ_large
+topic18 Q0 sci.crypt/16126 9 1.040 groupQ_large
+topic18 Q0 sci.crypt/15470 10 0.963 groupQ_large

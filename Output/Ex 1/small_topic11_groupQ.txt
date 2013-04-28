@@ -1,0 +1,10 @@
+topic11 Q0 talk.politics.guns/54374 1 7.424 groupQ_small
+topic11 Q0 talk.politics.guns/54364 2 6.999 groupQ_small
+topic11 Q0 talk.politics.guns/55276 3 6.385 groupQ_small
+topic11 Q0 talk.politics.guns/54408 4 4.887 groupQ_small
+topic11 Q0 talk.politics.guns/54483 5 4.879 groupQ_small
+topic11 Q0 talk.politics.guns/55260 6 3.929 groupQ_small
+topic11 Q0 talk.politics.guns/54748 7 2.612 groupQ_small
+topic11 Q0 talk.politics.guns/54207 8 2.365 groupQ_small
+topic11 Q0 talk.politics.guns/55100 9 2.321 groupQ_small
+topic11 Q0 talk.politics.guns/54593 10 2.305 groupQ_small
