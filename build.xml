@@ -1,0 +1,19 @@
+<project name="TextIndexer" default="run" basedir=".">
+    <property name="src" location="${basedir}/src"/>
+    <property name="build" location="${basedir}/build"/>
+    <property name="lib" location="${basedir}/lib"/>
+	
+    <target name="run" depends="compile">
+        <java classname= "TextIndexer">
+    	 	<classpath path="bin"/>
+            <arg value="${arg0}"/>
+            <arg value="${arg1}"/>
+    	</java>
+    </target>
+ 	<path id="classpath">
+        <fileset dir="lib"/>
+    </path>
+    <target name="compile">
+        <javac includeantruntime = "false" srcdir="./src" destdir="bin" classpathref="classpath"/>
+    </target>
+</project>
