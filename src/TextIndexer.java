@@ -5,9 +5,9 @@ public class TextIndexer {
 		private final static File FolderLocation = new File("C:/20_newsgroups_subset/20_newsgroups_subset/");
 		private final static String QueryLocation = "C:/topics/";
 		private final static String IndexLocation = "./output/";	
-		private static String Topic = "topic17";
+		private static String Topic = "topic1";
 		private static String Experiment = "experiment5";
-		private static boolean bagOfWords = false;
+		private static boolean bagOfWords = true;
 		private static boolean Stem = true;
 		private static boolean tfidf = true;		
 		private static boolean CreateIndex = true;
